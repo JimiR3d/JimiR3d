@@ -2,9 +2,9 @@
 
 **AI Engineer · Full-Stack Developer · Data Analyst**
 
-I build and ship real, deployed products — AI-powered tools, full-stack web apps, and data pipelines. I like taking an idea from a blank repo to something live that people can actually use, whether that's an LLM pipeline, a React dashboard, or a backend that quietly does the boring work for you.
+I build and ship real, deployed products. AI-powered tools, full-stack web apps, and data pipelines. I like taking an idea from a blank repo to something live that people can actually use, whether that's an LLM pipeline, a React dashboard, or a backend that quietly does the boring work for you.
 
-Computer Science graduate (Covenant University, 2024), currently building in public and **open to remote roles worldwide** across AI engineering, full-stack development, and data analytics. Field-agnostic — I care more about interesting problems and shipping than about any single industry.
+Computer Science graduate (Covenant University, 2024), currently building in public and **open to remote roles worldwide** across AI engineering, full-stack development, and data analytics. Field-agnostic, I care more about interesting problems and shipping than about any single industry.
 
 📍 Based in Lagos, Nigeria · 🌍 Working remotely worldwide · 🎓 Starting an M.Sc. at CODE University Berlin (Sept 2026)
 
