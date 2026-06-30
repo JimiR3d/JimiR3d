@@ -1,43 +1,57 @@
-# Hi, I'm Jimi Aboderin
+# Hi, I'm Jimi Aboderin 👋
 
-**I automate the workflows African financial institutions still do by hand.**
+**AI Engineer · Full-Stack Developer · Data Analyst**
 
-I'm a data analyst and CS graduate based in Lagos, Nigeria, specialising in regulatory reporting automation, financial data pipelines, and compliance analytics. My work sits at the intersection of Python, SQL, and the regulatory frameworks that govern African banking — Basel III, CBN prudential guidelines, and financial risk reporting.
+I build and ship real, deployed products — AI-powered tools, full-stack web apps, and data pipelines. I like taking an idea from a blank repo to something live that people can actually use, whether that's an LLM pipeline, a React dashboard, or a backend that quietly does the boring work for you.
 
-Previously, I built automated Basel III compliance reporting pipelines at Qucoon and implemented ERP systems (Microsoft Dynamics NAV/BC) at GEMS Consulting. I'm now building in public and looking for my next role in data analytics, data engineering, or regulatory automation.
+Computer Science graduate (Covenant University, 2024), currently building in public and **open to remote roles worldwide** across AI engineering, full-stack development, and data analytics. Field-agnostic — I care more about interesting problems and shipping than about any single industry.
 
-Starting September 2026, I'll be pursuing an M.Sc. in Technology & Management at CODE University of Applied Sciences, Berlin.
-
----
-
-### What I work with
-
-**Core:** Python · SQL · Power BI · Microsoft Fabric · Pandas · Data Pipelines
-
-**Tools:** Streamlit · DuckDB · Plotly · Git · GitHub Actions
+📍 Based in Lagos, Nigeria · 🌍 Working remotely worldwide · 🎓 Starting an M.Sc. at CODE University Berlin (Sept 2026)
 
 ---
 
-### Projects
+### 🚀 Featured projects
 
-| Project | What it does |
-|---------|-------------|
-| [Quidax Market Analytics](https://github.com/JimiR3d/quidax-market-analytics) | Live crypto market intelligence for NGN trading pairs using the Quidax public API |
-| [Basel III Dashboard](https://github.com/JimiR3d/basel3-dashboard) | Real-time capital adequacy ratio monitoring for Nigerian banks |
-| [Regulatory Report Generator](https://github.com/JimiR3d/regulatory-report-generator) | Automated CBN-format prudential report generation from raw data |
-| [Oil & Gas Data Pipeline](https://github.com/JimiR3d/oil-gas-data-pipeline) | End-to-end production analytics pipeline for upstream E&P operations |
-
----
-
-### Currently
-
-- Open to **data analyst**, **data engineering**, and **regulatory automation** roles
-- Building RegTech tools for African financial institutions
-- Admitted to **M.Sc. Technology & Management — CODE University Berlin** (Sept 2026)
+| Project | What it does | Live |
+|---------|--------------|------|
+| **[PulseDesk](https://github.com/JimiR3d/Quidax-Telegram-gemini)** | AI customer-support automation for Telegram — groups conversations, classifies intent, drafts replies, and hands off to human admins. Python · Gemini. | [Live demo](https://quidax-telegram-gemini-production.up.railway.app/) |
+| **[JobPulse](https://github.com/JimiR3d/jobpulse)** | AI remote-job aggregator. A multi-stage LLM pipeline (Groq + Gemini) scrapes, deduplicates, and scores jobs against your profile, then serves the best matches to a React dashboard. FastAPI · React · Supabase. | [Live demo](https://jobpulse-sepia.vercel.app/) |
+| **[Quidax Dashboard](https://github.com/JimiR3d/Quidax-Dashboard)** | Crypto market & growth analytics dashboard with live market data and clean, responsive visualisations. Next.js · TypeScript. | [Live demo](https://quidax-b2b-dashboard.vercel.app/) |
 
 ---
 
-### Get in touch
+### 🛠️ What I work with
 
-- Email: [folajinmi13@gmail.com](mailto:folajinmi13@gmail.com)
-- LinkedIn: [Oluwafolajinmi Aboderin](https://www.linkedin.com/in/oluwafolajinmi-aboderin-695848249/)
+**Languages:** Python · TypeScript · JavaScript · SQL
+
+**AI / LLMs:** Groq · Gemini · multi-stage LLM pipelines · prompt engineering
+
+**Full-stack:** React · Next.js · FastAPI · Node.js · Tailwind CSS · Supabase / Postgres
+
+**Data:** Pandas · data pipelines · Power BI · Plotly
+
+**Tooling:** Git · GitHub Actions · Docker · Vercel · Railway
+
+---
+
+### 💼 Experience
+
+- **Qucoon** — Built financial-data reporting pipelines in Python.
+- **GEMS Consulting** — Implemented ERP systems (Microsoft Dynamics NAV / Business Central).
+
+---
+
+### 🎓 Education
+
+- **M.Sc., Technology & Management** — CODE University of Applied Sciences, Berlin *(starts Sept 2026)*
+- **B.Sc., Computer Science** — Covenant University, 2024
+
+---
+
+### 📫 Get in touch
+
+- 📧 [folajinmi13@gmail.com](mailto:folajinmi13@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/oluwafolajinmi-aboderin-695848249/)
+- 🌐 [Portfolio](https://oluwafolajinmi-aboderin.vercel.app/)
+
+*Open to remote opportunities — let's build something.*
